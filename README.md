@@ -16,3 +16,7 @@ Após criar um novo repositorio execute os seguintes comandos:
 `git pull` **->** para atualizar seu repositório local com a mais nova versão, execute.
   
   Se desejar ver o status dos comandos efetuados, execute `git status`
+  
+Para clonar o repositorio, execute `git clone https://github.com/AnaGFranco/primeiro-repositorio.git`
+  
+Lembre: Trocar o caminho (https://github.com/AnaGFranco/primeiro-repositorio.git) de acordo com repositorio no qual estão sendo executando as tarefas.
