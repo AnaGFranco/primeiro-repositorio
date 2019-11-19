@@ -20,3 +20,8 @@ Após criar um novo repositorio execute os seguintes comandos:
 Para clonar o repositorio, execute `git clone https://github.com/AnaGFranco/primeiro-repositorio.git`
   
 Lembre: Trocar o caminho (https://github.com/AnaGFranco/primeiro-repositorio.git) de acordo com repositorio no qual estão sendo executando as tarefas.
+
+
+  
+  Tirar o vinculo de um repositorio ao clonar  
+  `$ git remote set-url origin https://github.com/AnaGFranco/reprograma-mongo-api.git`
